@@ -4,3 +4,4 @@
 - 🔭 I’m currently studying in KMUTT
 - 🌱 I’m currently interesting in software engineer and Frontend Developer
 - 🤔 I’m currently learning in mobile developing
+## 🌐 Socials:
