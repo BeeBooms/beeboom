@@ -5,10 +5,9 @@
 - 🌱 I’m currently interesting in software engineer and Frontend Developer
 - 🤔 I’m currently learning in mobile developing
 ## 🌐 Socials:
-                <p align="left">
-                      <a href="https://www.facebook.com/profile.php?id=61551886055277" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
+<a href="https://www.facebook.com/profile.php?id=61551886055277" target="_blank" rel="noreferrer">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
                     </picture>
