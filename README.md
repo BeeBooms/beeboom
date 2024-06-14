@@ -32,7 +32,7 @@
 - Other:
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 
-## 📊 My GitHub Stats
+## 📊 My GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BeeBooms&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  ![](https://github-readme-stats.vercel.app/api?username=BeeBooms&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BeeBooms&theme=default&hide_border=false)<br/>
                     
